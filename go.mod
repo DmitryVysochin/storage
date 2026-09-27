@@ -1,4 +1,4 @@
-module storage
+module github.com/DmitryVysochin/storage
 
 go 1.25.0
 
