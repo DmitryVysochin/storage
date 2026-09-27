@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"storage/internal/storage"
+
+	"github.com/DmitryVysochin/storage/internal/storage"
 )
 
 func main() {
